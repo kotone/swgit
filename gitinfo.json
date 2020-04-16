@@ -1,15 +1,5 @@
 {
   "git": [
-    {
-      "mode": "work",
-      "name": "xieqiang05",
-      "email": "xieqiang05@ky-tech.com.cn"
-    },
-    {
-      "mode": "person",
-      "name": "kotone",
-      "email": "1581850039@qq.com"
-    }
   ],
-  "active": "person"
+  "active": ""
 }
