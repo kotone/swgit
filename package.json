@@ -1,6 +1,6 @@
 {
-  "name": "switchygitshell",
-  "version": "1.1.3",
+  "name": "switchgitshell",
+  "version": "1.0.0",
   "description": "switch git account",
   "main": "index.js",
   "scripts": {
