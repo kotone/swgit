@@ -1,12 +1,12 @@
 {
   "name": "switchgitshell",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "switch git account",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "kotone",
   "license": "ISC",
   "bin": {
     "swgit": "./index.js"
