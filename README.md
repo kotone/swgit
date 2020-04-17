@@ -1,5 +1,9 @@
 # swgit
 用于管理 / 切换 Git 账户。
+### 安装
+> `npm i switchgitshell -g`  
+如果报错，加上 `sudo`  
+
 ### 使用
 1. 安装后执行 `swgit -s [mode] [name] [Email]`
 > mode：要保存的模式，例如： work 模式  
